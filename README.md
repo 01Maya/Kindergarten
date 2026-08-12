@@ -9,3 +9,7 @@ Built with smooth animations, playful visuals, and responsive layouts to deliver
 ---
 
 ## ✨ Description
+
+
+This Kindergarten Landing Page combines modern UI/UX principles with a child-friendly design aesthetic. The website features animated sections, floating decorative elements, interactive cards, and smooth scrolling navigation to create an engaging browsing experience.
+
