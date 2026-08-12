@@ -7,3 +7,5 @@ A modern and interactive Kindergarten Landing Page designed to create a joyful f
 Built with smooth animations, playful visuals, and responsive layouts to deliver an engaging user experience across all devices.
 
 ---
+
+## ✨ Description
