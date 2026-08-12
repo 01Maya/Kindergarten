@@ -3,7 +3,6 @@
 ## 📖 Overview
 
 A modern and interactive Kindergarten Landing Page designed to create a joyful first impression for parents while showcasing educational programs, activities, and school highlights.
-
 Built with smooth animations, playful visuals, and responsive layouts to deliver an engaging user experience across all devices.
 
 ---
@@ -17,5 +16,4 @@ The design uses a soft pastel color palette, playful doodles, emoji-inspired bac
 
 Every section is optimized for responsiveness, accessibility, and performance, ensuring a seamless experience on desktop, tablet, and mobile devices.
 
----
 
