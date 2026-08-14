@@ -18,3 +18,4 @@ Every section is optimized for responsiveness, accessibility, and performance, e
 
 ## 🚀 Features
 
+- 📱 Fully Responsive Design
