@@ -21,4 +21,7 @@ Every section is optimized for responsiveness, accessibility, and performance, e
 - 📱 Fully Responsive Design
 - ✨ Smooth Framer Motion Animations
 - 🎯 Navigation-to-Section Smooth Scroll Effect
+- 🎈 Floating Emoji & Doodle Background Elements
+
+
 
