@@ -31,4 +31,5 @@ Every section is optimized for responsiveness, accessibility, and performance, e
 - 🎯 Sticky Responsive Navigation Bar
 - 🔄 Scroll Reveal Animations
 - 🎉 Animated CTA Buttons
+- 🖼️ Optimized Image Layouts
 
