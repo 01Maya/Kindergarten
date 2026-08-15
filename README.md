@@ -29,4 +29,4 @@ Every section is optimized for responsiveness, accessibility, and performance, e
 - 💫 Floating Hero Elements
 - ⚡ Smooth Transitions & Micro Interactions
 - 🎯 Sticky Responsive Navigation Bar
-
+- 🔄 Scroll Reveal Animations
