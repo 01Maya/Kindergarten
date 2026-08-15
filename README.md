@@ -27,4 +27,5 @@ Every section is optimized for responsiveness, accessibility, and performance, e
 - 🌊 Custom Wavy Section Dividers
 - 📚 Animated Program Cards
 - 💫 Floating Hero Elements
+- ⚡ Smooth Transitions & Micro Interactions
 
