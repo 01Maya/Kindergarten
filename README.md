@@ -23,5 +23,4 @@ Every section is optimized for responsiveness, accessibility, and performance, e
 - 🎯 Navigation-to-Section Smooth Scroll Effect
 - 🎈 Floating Emoji & Doodle Background Elements
 - 🖱️ Interactive Hover Effects
-
-
+- 🎠 Animated Testimonial Carousel
