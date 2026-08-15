@@ -25,3 +25,4 @@ Every section is optimized for responsiveness, accessibility, and performance, e
 - 🖱️ Interactive Hover Effects
 - 🎠 Animated Testimonial Carousel
 - 🎨 Modern Child-Friendly UI Design
+- 🌊 Custom Wavy Section Dividers
