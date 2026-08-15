@@ -28,4 +28,5 @@ Every section is optimized for responsiveness, accessibility, and performance, e
 - 📚 Animated Program Cards
 - 💫 Floating Hero Elements
 - ⚡ Smooth Transitions & Micro Interactions
+- 🎯 Sticky Responsive Navigation Bar
 
