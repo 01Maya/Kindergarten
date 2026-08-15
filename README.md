@@ -34,3 +34,4 @@ Every section is optimized for responsiveness, accessibility, and performance, e
 - 🖼️ Optimized Image Layouts
 - ♿ Accessibility Friendly
 
+---
