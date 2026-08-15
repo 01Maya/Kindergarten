@@ -32,4 +32,5 @@ Every section is optimized for responsiveness, accessibility, and performance, e
 - 🔄 Scroll Reveal Animations
 - 🎉 Animated CTA Buttons
 - 🖼️ Optimized Image Layouts
+- ♿ Accessibility Friendly
 
