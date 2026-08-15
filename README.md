@@ -26,3 +26,4 @@ Every section is optimized for responsiveness, accessibility, and performance, e
 - 🎠 Animated Testimonial Carousel
 - 🎨 Modern Child-Friendly UI Design
 - 🌊 Custom Wavy Section Dividers
+- 📚 Animated Program Cards
