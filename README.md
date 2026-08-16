@@ -38,4 +38,4 @@ Every section is optimized for responsiveness, accessibility, and performance, e
 
 # 📑 Sections
 
-
+### 🏠 Hero
