@@ -44,6 +44,8 @@ Welcoming hero section with animated illustrations, engaging headline, call-to-a
 ### ⭐ Why Us
 Highlights the key advantages of the kindergarten including healthy meals, professional teachers, fun activities, and educational programs.
 
+### 📚 Programs
+Interactive program showcase featuring category filters and animated cards for various classes and learning activities.
 
 
 
