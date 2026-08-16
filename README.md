@@ -42,6 +42,8 @@ Every section is optimized for responsiveness, accessibility, and performance, e
 Welcoming hero section with animated illustrations, engaging headline, call-to-action buttons, and floating educational activity tags.
 
 ### ⭐ Why Us
+Highlights the key advantages of the kindergarten including healthy meals, professional teachers, fun activities, and educational programs.
+
 
 
 
