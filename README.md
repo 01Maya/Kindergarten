@@ -39,3 +39,6 @@ Every section is optimized for responsiveness, accessibility, and performance, e
 # 📑 Sections
 
 ### 🏠 Hero
+Welcoming hero section with animated illustrations, engaging headline, call-to-action buttons, and floating educational activity tags.
+
+
