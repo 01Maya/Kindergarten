@@ -47,5 +47,4 @@ Highlights the key advantages of the kindergarten including healthy meals, profe
 ### 📚 Programs
 Interactive program showcase featuring category filters and animated cards for various classes and learning activities.
 
-
-
+### ❤️ Testimonials
