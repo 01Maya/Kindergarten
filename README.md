@@ -51,7 +51,7 @@ Interactive program showcase featuring category filters and animated cards for v
 Parent review carousel with smooth transitions and engaging social proof to build trust.
 
 ### 📧 Contact
-
+Newsletter subscription section encouraging parents to stay updated with school news and special offers.
 
 
 
