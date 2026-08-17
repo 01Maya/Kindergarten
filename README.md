@@ -48,3 +48,9 @@ Highlights the key advantages of the kindergarten including healthy meals, profe
 Interactive program showcase featuring category filters and animated cards for various classes and learning activities.
 
 ### ❤️ Testimonials
+Parent review carousel with smooth transitions and engaging social proof to build trust.
+
+
+
+
+
