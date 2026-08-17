@@ -50,6 +50,8 @@ Interactive program showcase featuring category filters and animated cards for v
 ### ❤️ Testimonials
 Parent review carousel with smooth transitions and engaging social proof to build trust.
 
+### 📧 Contact
+
 
 
 
