@@ -53,6 +53,7 @@ Parent review carousel with smooth transitions and engaging social proof to buil
 ### 📧 Contact
 Newsletter subscription section encouraging parents to stay updated with school news and special offers.
 
+### 🦶 Footer
 
 
 
