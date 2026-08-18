@@ -56,7 +56,7 @@ Newsletter subscription section encouraging parents to stay updated with school 
 ### 🦶 Footer
 Organized footer containing navigation links, programs, useful resources, social media links, and gallery previews.
 
-
+---
 
 
 
