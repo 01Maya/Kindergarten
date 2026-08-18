@@ -10,7 +10,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Kindernest',
+  title: 'Kindernest ⭐',
   description: 'A modern and interactive Kindergarten Landing Page',
   icons: {
     icon: [
