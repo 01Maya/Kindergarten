@@ -73,3 +73,4 @@ https://kindernestnz.vercel.app/
 # 🎗️ Techstack
 
 - NextJs
+- TailwindCss
