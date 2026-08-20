@@ -74,3 +74,4 @@ https://kindernestnz.vercel.app/
 
 - NextJs
 - TailwindCss
+- Shadcn Ui
