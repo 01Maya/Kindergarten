@@ -87,3 +87,9 @@ https://kindernestnz.vercel.app/
 git clone https://github.com/your-username/kindergarten-landing-page.git
 ```
 
+### Navigate to Project
+
+```bash
+cd kindergarten-landing-page
+```
+
