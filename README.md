@@ -93,3 +93,10 @@ git clone https://github.com/your-username/kindergarten-landing-page.git
 cd kindergarten-landing-page
 ```
 
+### Install Dependencies
+
+```bash
+npm install
+```
+
+
