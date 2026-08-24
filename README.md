@@ -115,4 +115,7 @@ http://localhost:3000
 
 # License
 
+This project is developed for educational and portfolio purposes.
+
+
 
