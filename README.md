@@ -107,7 +107,9 @@ npm run dev
 
 ### Open Browser
 
-
+```bash
+http://localhost:3000
+```
 
 ---
 
