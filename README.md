@@ -120,7 +120,7 @@ http://localhost:3000
 - Child-Friendly Design
 - Modern UI/UX Principles
 - Responsive Layout
-
+- Interactive Components
 
 ---
 
