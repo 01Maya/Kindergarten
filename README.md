@@ -118,6 +118,7 @@ http://localhost:3000
 # 🌟 Highlights
 
 - Child-Friendly Design
+- Modern UI/UX Principles
 
 
 ---
