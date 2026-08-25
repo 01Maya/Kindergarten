@@ -115,6 +115,11 @@ http://localhost:3000
 
 ---
 
+# 🌟 Highlights
+
+
+---
+
 # 📎 License
 
 This project is developed for educational and portfolio purposes.
