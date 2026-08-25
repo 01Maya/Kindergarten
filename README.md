@@ -121,6 +121,7 @@ http://localhost:3000
 - Modern UI/UX Principles
 - Responsive Layout
 - Interactive Components
+- Smooth Animations
 
 ---
 
