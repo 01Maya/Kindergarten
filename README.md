@@ -124,7 +124,7 @@ http://localhost:3000
 - Smooth Animations
 - Program Filtering System
 - Testimonial Carousel
-
+- Decorative Emoji Backgrounds
 
 
 ---
