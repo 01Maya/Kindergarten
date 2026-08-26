@@ -125,6 +125,7 @@ http://localhost:3000
 - Program Filtering System
 - Testimonial Carousel
 - Decorative Emoji Backgrounds
+- Clean Information Architecture
 
 
 ---
