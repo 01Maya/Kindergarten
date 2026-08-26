@@ -123,6 +123,8 @@ http://localhost:3000
 - Interactive Components
 - Smooth Animations
 - Program Filtering System
+- Testimonial Carousel
+
 
 
 ---
